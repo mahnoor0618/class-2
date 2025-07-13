@@ -59,3 +59,5 @@ Float formatting
 
 Code readability and structure
 
+📌 Author
+Mahnoor Shehzad 🎓 Computational Finance | 💻 Python Learner
